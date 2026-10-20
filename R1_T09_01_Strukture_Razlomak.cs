@@ -1,6 +1,6 @@
 using System;
 
-class R1_T09_01_Strukture_Knjiga
+class R1_T09_01_Strukture_Razlomak
 {
     struct Razlomak
     {
